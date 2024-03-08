@@ -1,0 +1,57 @@
+
+
+
+.img-index {
+background-image: url("../img/background/parallax1.jpg");
+background-position: center;
+background-attachment:fixed;
+background-size: cover;
+min-height: 300px;
+height: 40rem;
+width: 100%;
+margin: 0;
+padding: 0 !important;
+z-index: -4;
+}
+
+
+.img-banniere {
+  height: 16rem;
+  margin-top: 6rem;
+  
+}
+
+.content-img-index {
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+
+
+.blur-overlay {
+  position: absolute;
+  top: 1400px;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+  background-image: url("../img/background/overlay-box.png");
+  background-position:bottom;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+ 
+}
+
+.parallax {
+  background-image: url("../img/background/parallax1.jpg");
+background-position: center;
+background-attachment:fixed;
+background-size: cover;
+min-height: 300px;
+height: 40rem;
+width: 100%;
+margin: 0;
+padding: 0 !important;
+z-index: -4;
+}

@@ -1,0 +1,16 @@
+.button-canvas {
+	float: left;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	background: #fff;
+	overflow: hidden;
+	border-radius: 50px;
+	transition: all 0.3s ease-in-out;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.button-canvas:hover {
+	width: 200px;
+    background-color: #fff;
+}

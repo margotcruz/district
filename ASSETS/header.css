@@ -1,0 +1,91 @@
+.content-navbar {
+position: relative;
+top: 10%;
+left: 0;
+}
+
+
+.nav-link {
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+    text-align: center;
+}
+
+.canvasLink {
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    font-size: large !important;
+}
+
+.modal-content {
+    background-color: #2f655f !important;
+}
+
+.modal-title {
+    font-weight: bold !important;
+    color: #998267;
+    text-decoration: underline;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #998267;
+}
+
+.submit {
+    background-color: #998267 !important;
+    font-weight: bold !important;
+}
+
+.close {
+    background-color: #998267 !important;
+    font-weight: bold !important;
+}
+
+.modalContact {
+    margin-top: 35rem;
+    margin-left: 6rem;
+    
+}
+
+.item-mobile {
+    font-size: larger;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: bold;
+    min-width: max-content;
+}
+
+.nav-mobile {
+    max-width: min-content;
+}
+
+.navbar-collapse-mobile {
+    text-align: -webkit-center;
+}
+
+.navbar-collapse-mobile :hover {
+    z-index: 99;
+}
+
+
+
+.card {
+    background-color: transparent !important;
+  }
+
+
+  .card-content {
+    padding: 15px;
+  }
+
+  .card-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .card-description {
+    font-size: 14px;
+  }
+
